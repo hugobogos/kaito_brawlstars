@@ -1,0 +1,33 @@
+.sectionTwo{
+    display: flex;
+}
+header nav ul{
+    display: flex;
+}
+header nav ul div{
+    display: flex;
+}
+
+header nav ul div li{
+    padding: 10px; 
+}
+header nav{
+    background-color: black;
+}
+.sectionOne figure img{
+    width: 100%;
+}
+header nav ul img{
+    height: 50px;
+}
+header nav ul li a{
+    color: white;
+    margin: 20px;
+}
+.sectionThree{
+    display: flex;
+}
+.sectionFive{
+    display: flex;
+    justify-content: space-around;
+}
