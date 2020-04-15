@@ -1,5 +1,10 @@
+header{
+    display: flex;
+    justify-content: center;
+}
 header nav{
     background-color: black;
+    width: 80%;
 }
 header nav ul{
     display: flex;
@@ -7,7 +12,10 @@ header nav ul{
 header nav ul div{
     display: flex;
 }
-header nav ul img{
+header nav div ul img{
+    width: 170px;   
+}
+header nav ul img.logosupercell{
     height: 50px;
 }
 header nav ul div li{
@@ -29,7 +37,19 @@ header nav ul li a{
 .sectionThree{
     display: flex;
 }
+.sectionThree figure img{
+    width: 250px ;
+}
 .sectionFive{
     display: flex;
     justify-content: space-around;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul div li img.supercellid{
+    height: 30px;
 }
