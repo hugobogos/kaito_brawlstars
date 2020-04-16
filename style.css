@@ -34,22 +34,44 @@ header nav ul li a{
 .sectionTwo figure img{
     width: 600px;
 }
+.sectionTwo div.appstore_googleplay{
+    display: flex;
+    justify-content: start;
+}
+.sectionTwo div.appstore_googleplay figure img{
+    width: 100px;
+}
 .sectionThree{
     display: flex;
 }
 .sectionThree figure img{
-    width: 250px ;
+    width: 300px;
+}
+.sectionFour{
+    background-image: url(bg_gamesocial_brawlstars.jpg);
+    color: white;
+    display: flex;
+    margin-bottom: 100px;
+}
+.text_align_item_center{
+    display: flex;
+    align-items: center;
 }
 .sectionFive{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
-
+.sectionFive div iframe{
+    margin: 15px;
+}
 header nav ul{
     display: flex;
     justify-content: space-between;
 }
 
 header nav ul div li img.supercellid{
-    height: 30px;
+    height: 20px;
+}
+header nav ul div li img.logosupercell{
+    height: 50px;
 }
