@@ -19,7 +19,7 @@ header nav ul img.logosupercell{
     height: 50px;
 }
 header nav ul div li{
-    padding: 10px; 
+ padding: 10px; 
 }
 header nav ul li a{
     color: white;
@@ -27,6 +27,11 @@ header nav ul li a{
 }
 .sectionOne figure img{
     width: 100%;
+}
+.sectionOne div figure img{
+    width: 250px;
+    display: flex;
+    align-items: center;
 }
 .sectionTwo{
     display: flex;
@@ -61,8 +66,21 @@ header nav ul li a{
     display: flex;
     justify-content: center;
 }
+.sectionFive div div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .sectionFive div iframe{
     margin: 15px;
+}
+.sectionFive div h4{
+    color: gray;
+}
+.sectionFive div figure img{
+    width: 150px;
+    list-style: none;
+    background-color: white;
 }
 header nav ul{
     display: flex;
@@ -75,3 +93,22 @@ header nav ul div li img.supercellid{
 header nav ul div li img.logosupercell{
     height: 50px;
 }
+.sectionSix{
+    background-color: black;
+}
+.sectionSix h5{
+    color: white;
+}
+.sectionSix div figure img{
+    width: 120px;
+}
+Follow us on
+FACEBOOK
+ 
+INSTAGRAM
+ 
+TWITTER
+ 
+LINKEDIN
+ 
+GLASSDOOR
