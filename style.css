@@ -25,6 +25,20 @@ header nav ul li a{
     color: white;
     margin: 20px;
 }
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul div li img.supercellid{
+    height: 20px;
+}
+header nav ul div li img.logosupercell{
+    height: 50px;
+}
+header nav ul div li img.recherche{
+    width: 25px;
+}
 .sectionOne figure img{
     width: 100%;
 }
@@ -82,23 +96,31 @@ header nav ul li a{
     list-style: none;
     background-color: white;
 }
-header nav ul{
-    display: flex;
-    justify-content: space-between;
-}
-
-header nav ul div li img.supercellid{
-    height: 20px;
-}
-header nav ul div li img.logosupercell{
-    height: 50px;
-}
 .sectionSix{
     background-color: black;
 }
 .sectionSix h5{
     color: white;
 }
-.sectionSix div figure img{
-    width: 120px;
+.sectionSix div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.social_media{
+    display: flex;
+    justify-content: flex-start;
+}
+.social_media figure img{
+    height: 20px;
+}
+.app_store{
+    display: flex;
+    justify-content: flex-end;
+}
+.app_store figure img{
+    height: 40px;
+}
+.partie_2 figure img{
+    width: 80px;
 }
