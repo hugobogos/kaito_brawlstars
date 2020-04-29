@@ -1,3 +1,7 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 header{
     display: flex;
     justify-content: center;
@@ -13,7 +17,7 @@ header nav ul div{
     display: flex;
 }
 header nav div ul img{
-    width: 1005;   
+    width: 100%;   
 }
 header nav ul img.logosupercell{
     height: 50px;
