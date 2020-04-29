@@ -42,11 +42,6 @@ header nav ul div li img.recherche{
 .sectionOne figure img{
     width: 100%;
 }
-.sectionOne div figure img{
-    width: 250px;
-    display: flex;
-    align-items: center;
-}
 .sectionTwo{
     display: flex;
 }
