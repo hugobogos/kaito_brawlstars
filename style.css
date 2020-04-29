@@ -4,7 +4,7 @@ header{
 }
 header nav{
     background-color: black;
-    width: 100%;
+    width: 80%;
 }
 header nav ul{
     display: flex;
@@ -13,7 +13,7 @@ header nav ul div{
     display: flex;
 }
 header nav div ul img{
-    width: 170px;   
+    width: 1005;   
 }
 header nav ul img.logosupercell{
     height: 50px;
