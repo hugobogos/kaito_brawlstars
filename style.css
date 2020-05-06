@@ -26,7 +26,6 @@ header nav div ul img{
     width: 100%;   
 }
 header nav ul img.logosupercell{
-    /* height: 0px; */
     width: 60px;
 }
 header nav ul div li{
@@ -54,7 +53,6 @@ header nav ul div li img.recherche{
 }
 .sectionOne figure img{
     width: 100%;
-    /* height: 100%; */
 }
 .sectionTwo{
     display: flex;
@@ -74,6 +72,16 @@ header nav ul div li img.recherche{
 }
 .sectionThree figure img{
     width: 300px;
+}
+.sectionTwo div.image figure img{
+    width: 727px;
+    height: 370px;
+    margin: 40px;
+    padding: 30px;
+}
+.sectionTwo div.Two{
+    margin: 60px;
+    padding: 50px;
 }
 .sectionFour{
     background-image: url(bg_gamesocial_brawlstars.jpg);
