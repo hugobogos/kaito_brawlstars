@@ -74,14 +74,9 @@ header nav ul div li img.recherche{
     width: 300px;
 }
 .sectionTwo div.image figure img{
-    width: 727px;
-    height: 370px;
-    margin: 40px;
-    padding: 30px;
-}
-.sectionTwo div.Two{
-    margin: 60px;
-    padding: 50px;
+    width: 980px;
+    height: 489px;
+    position: relative;
 }
 .sectionFour{
     background-image: url(bg_gamesocial_brawlstars.jpg);
