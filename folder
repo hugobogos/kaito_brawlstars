@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    position:fixed;
+    z-index: 99;
+    left: 50%;
+    margin-left: -40%;
+}
+
