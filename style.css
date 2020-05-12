@@ -10,7 +10,7 @@ header{
     position:fixed;
     z-index: 99;
     left: 50%;
-    margin-left: -40%;
+    margin-left: -40%;  
 }
 header nav{
     background-color: black;
@@ -43,7 +43,7 @@ header nav ul{
 }
 
 header nav ul div li img.supercellid{
-    width: 250px;
+    width: 140px;
 }
 header nav ul div li img.logosupercell{
     height: 50px;
@@ -119,11 +119,11 @@ header nav ul div li img.recherche{
     justify-content: space-around;
     align-items: center;
 }
-.social_media{
+.sectionSix div.social_media{
     display: flex;
     justify-content: flex-start;
 }
-.social_media figure img{
+.sectionSix div.social_media figure img{
     height: 20px;
 }
 .app_store{
