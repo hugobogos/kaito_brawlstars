@@ -55,12 +55,6 @@ header nav ul div li img.logosupercell{
 header nav ul div li img.recherche{
     width: 25px;
 }
-.sectionOne{
-    position: relative;
-    top: -200px;
-    background-image: url(./hero_support_2210.jpg);
-    height: 1100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.sectionOne:host(caca){
+    
 }
