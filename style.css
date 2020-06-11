@@ -161,3 +161,8 @@ header nav ul div li img.recherche{
 .partie_2 figure img{
     width: 80px;
 }
+.partie_2 div h5{
+    padding: 15px;
+    display: flex;
+    justify-self: start;
+}
